@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+#head{
+	background:rgb(51,51,51);
+	padding:0 50px;
+	height:70px;		
+}
+#container{
+	background:rgb(204,204,204);
+	
+}
+.right li{
+	margin:auto 10px;
+	float:left;
+}
+.right a{
+	font-size:10px;
+	color:white;
+}
+
+.right{
+	float:right;
+}
+.main{
+	font-size:12px;
+	background:white;
+	line-height:2em;
+	border:1px solid black;
+	margin:10px;
+	padding:10px;
+}
+
+.main ul{
+	list-style:none;
+}
+.main ol{
+	font-weight:bold;
+}
+.img{
+	width:100px;
+	height:100px;
+}
+.many{
+	width:150px;
+	height:150px;
+	border:1px solid black;
+	text-align:center;
+	margin-top:10px;
+}
+table{
+	border:1px solid #b0b0b0;
+	border-collapse:collapse;
+	font-size:16px;
+	font-weight:bold;
+	margin:0 auto;
+	width:100%;
+}
+#table1{
+	margin:10px;
+}
+#table1 tr:last-child{
+	background:#b0b0b0;
+}
+.main th{
+	background:black;
+	color:white;
+	text-align:left;
+}
+.main tr{
+	text-align:left;
+}
+#foot{
+	border:1px black solid;
+	margin:10px;
+	background:white;
+}
+#foot h1{
+	font-size:14px;
+	border-left:4px #b0b0b0 solid;
+	margin:15px;
+	font-weight:bold;
+}
+
+    span{
+    	font-size:10px;
+    	color:#b0b0b0;
+    }
+    form{
+    	margin:15px 15px;
+    	font-size:12px;
+    }
+    form table{
+    	font-size:12px;
+    	border:0px;
+    	vertical-align: center;
+    	height:200px;
+		margin:0 auto;
+    }
+   form tr td:first-child{
+	    width:50%;
+    	text-align: right;
+    }
+    input[type="button"]{
+    	display:block;
+    	color:#FFF;
+    	font-size:25px;
+    	margin:0 auto;
+    	width:80%;
+    	background:#205AA7;
+    	height:50px;
+    }
+#last{
+	height:50px;
+	background:rgb(51,51,51);
+	line-height:50px;
+	text-align:center;
+
+}
