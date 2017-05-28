@@ -1,0 +1,155 @@
+`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Demo2</title>
+<link rel="stylesheet" href="1.css" type="text/css" />
+</head>
+<body>
+<div id="container">
+ <div id="head">
+  <img src="img/log1.jpg" />
+   <div class="right">
+     <ul>
+      <li><a href="#">导航链接一</a></li>
+      <li><a href="#">导航链接二</a></li>
+      <li><a href="#">导航链接三</a></li>
+      <li><a href="#">导航链接四</a></li>
+     </ul>
+   </div>
+ </div>
+ <div class="main">
+  <h1>文章一级标题</h1>
+  <h2>文章二级标题</h2>
+  <P>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落有个<strong>加粗字体</strong>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落<a href="http://ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落该换行了<br />
+    很长很长的段落这是一个很很长很长的段落这是一个很很长很长的段落这是一个很很长很长的段落这是一个很很长很长的段落这是一个很是一个很很长很长是一个很很长很长是一个很很长很长是一个很很长很长
+  </P>
+  <img src="img/tiger.jpg" width="200px" height="100px" />
+  <P>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落有个<strong>加粗字体</strong>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落<a href="http://ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落该换行了<br />
+    很长很长的段落这是一个很很长很长的段落这是一个很很长很长的段落这是一个很很长很长的段落这是一个很很长很长的段落这是一个很是一个很很长很长是一个很很长很长是一个很很长很长是一个很很长很长
+  </P>
+ </div>
+  <div class="main">
+  <h1>文章一级标题</h1>
+  <h2>文章二级标题</h2>
+  <P>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落有个<strong>加粗字体</strong>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落<a href="http://ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落该换行了<br />
+    很长很长的段落这是一个很很长很长的段落这是一个很很长很长的段落这是一个很很长很长的段落这是一个很很长很长的段落这是一个很是一个很很长很长是一个很很长很长是一个很很长很长是一个很很长很长
+  </P>
+  <img src="img/tiger.jpg" width="200px" height="100px" />
+  <ul>
+    <li>项目列表一</li>
+    <li>项目列表二</li>
+    <li>项目列表三</li>
+  </ul>
+ </div>
+ <div class="main">
+   <p style="font-size:20px; font-weight:bold;">图片</p>
+   <div class="many"><p>好看的图片</p><img  class="img" src="img/tiger.jpg" /></div>
+   <div class="many"><p>好看的图片</p><img  class="img" src="img/tiger.jpg" /></div>
+   <div class="many"><p>好看的图片</p><img  class="img" src="img/tiger.jpg" /></div>
+   <div class="many"><p>好看的图片</p><img  class="img" src="img/tiger.jpg" /></div>
+   <div class="many"><p>好看的图片</p><img  class="img" src="img/tiger.jpg" /></div>
+   <div class="many"><p>好看的图片</p><img  class="img" src="img/tiger.jpg" /></div>
+   <div class="many"><p>好看的图片</p><img  class="img" src="img/tiger.jpg" /></div>
+ </div>
+ <div class="main">
+ 　<h1 style="padding:0; margin:0;">最后一级标题</h1>
+ 　<h2 style="padding:0; margin:0;">文章二级标题</h2>
+ 　<ol> 
+     <li>排名1</li>
+     <li>排名2</li>
+     <li>排名3</li>
+  </ol>
+  <div id="table1">
+      <span style="font-size:16px;">这是一个表格</span>
+  <table border="1">
+    <tr>
+      <th>表头</th>
+      <th>表头</th>
+      <th>表头</th>
+    </tr>
+    <tr>
+      <td>表内容单元格</td>
+      <td>表内容单元格</td>
+      <td><a href="#">操作</a></td>
+    </tr>
+     <tr>
+      <td>表内容单元格</td>
+      <td>表内容单元格</td>
+      <td><a href="#">操作</a></td>
+    </tr>
+     <tr>
+      <td>表内容单元格</td>
+      <td>表内容单元格</td>
+      <td><a href="#">操作</a></td>
+    </tr>
+     <tr>
+      <td>表内容单元格</td>
+      <td>表内容单元格</td>
+      <td><a href="#">操作</a></td>
+    </tr>
+    <tr>
+      <td>总计</td>
+      <td colspan="2">1000</td>
+    </tr>
+  </table>
+  </div>
+  </div>
+  <div id="foot">
+    <h1>&nbsp;&nbsp;&nbsp;这里以后是一个侧栏，这是侧栏的标题</h1>
+    <div>
+      <form>
+         <table>
+           <tr>
+              	<td><label>请输入邮箱地址：</label></td>
+                <td><input type="text" value="这是一个文本输入框" /></td>
+           </tr>
+           <tr>
+               <td><span>邮箱地址清按要求格式输入</span></td>
+           </tr>
+           <tr>
+               <td><label>请输入密码：</label></td>
+               <td><input type="password" value="这是一个密码框" /></td>
+           </tr>
+           <tr>
+               <td><label>请重复输入密码：</label></td>
+               <td><input type="password" value="这是一个密码框" /></td>
+           </tr>
+           <tr>
+               <td><span>密码请为6-16位英文数字</span></td>
+           </tr>
+           <tr>
+               <td><label>性别：</label></td>
+               <td><input type="radio" name="man"/>男<input type="radio" name="woman"/>女</td>           
+           </tr>
+           <tr>
+               <td><label>城市:</label></td>
+               <td><select name="city">
+                  <option value="beijing">北京</option
+                  ><option value="shanghai">上海</option>
+                  <option value="guangzhou">广州</option>	
+               </select></td>
+           </tr>
+           <tr>
+               <td><label>爱好:</label></td>
+               <td>
+                  <input type="checkbox" name="hobby" value="sport" />运动
+                  <input type="checkbox" name="hobby" value="read" />读书
+                  <input type="checkbox" name="hobby" value="listen" />听歌
+               </td>
+           </tr>
+           <tr>
+                  <td><label>个人描述:</label></td>
+                  <td><textarea cols="50" rows="5">这是一个多行输入框</textarea></td>
+           </tr>
+         </table>
+         <input type="button" value="提交按钮">
+      </form>
+    </div>
+  </div>
+  <div id="last">
+     <p style="color:white">&copy;版权所有</p>
+  </div>
+</div>
+</body>
+</head>
